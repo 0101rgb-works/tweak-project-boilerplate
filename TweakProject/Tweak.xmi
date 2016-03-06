@@ -1,0 +1,9 @@
+#import <xctheos.h>
+
+CONFIG(generator=MobileSubstrate);
+
+#import <UIKit/UIKit.h>
+#import "substrate.h"
+#include "AppFixes.xm"
+
+

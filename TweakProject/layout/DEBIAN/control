@@ -1,0 +1,9 @@
+Package: com.test.TweakProject
+Name: TweakProject
+Depends: mobilesubstrate, firmware (>= 8.0), gsc.assistant
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 
+Maintainer: 
+Author: 
+Section: Tweaks
